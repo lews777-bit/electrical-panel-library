@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="180" viewBox="0 0 120 180">
+
+<!-- корпус DIN модуля -->
+<rect x="10" y="10" width="100" height="160" rx="5"
+fill="white" stroke="black" stroke-width="3"/>
+
+<!-- верхняя надпись -->
+<text x="60" y="35"
+font-family="Arial"
+font-size="14"
+text-anchor="middle">
+МЕАНДР
+</text>
+
+<!-- модель -->
+<text x="60" y="65"
+font-family="Arial"
+font-size="18"
+font-weight="bold"
+text-anchor="middle">
+УЗМ-51М
+</text>
+
+<!-- индикаторы -->
+<circle cx="40" cy="95" r="8"
+fill="white" stroke="black" stroke-width="2"/>
+
+<circle cx="80" cy="95" r="8"
+fill="white" stroke="black" stroke-width="2"/>
+
+<text x="40" y="120"
+font-family="Arial"
+font-size="10"
+text-anchor="middle">
+U
+</text>
+
+<text x="80" y="120"
+font-family="Arial"
+font-size="10"
+text-anchor="middle">
+I
+</text>
+
+<!-- кнопка -->
+<rect x="35" y="135" width="50" height="15"
+fill="white" stroke="black" stroke-width="2"/>
+
+<text x="60" y="147"
+font-family="Arial"
+font-size="8"
+text-anchor="middle">
+TEST
+</text>
+
+<!-- клеммы -->
+<line x1="35" y1="10" x2="35" y2="0"
+stroke="black" stroke-width="3"/>
+
+<line x1="85" y1="10" x2="85" y2="0"
+stroke="black" stroke-width="3"/>
+
+<line x1="35" y1="170" x2="35" y2="180"
+stroke="black" stroke-width="3"/>
+
+<line x1="85" y1="170" x2="85" y2="180"
+stroke="black" stroke-width="3"/>
+
+</svg>
